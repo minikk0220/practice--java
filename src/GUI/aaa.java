@@ -30,7 +30,7 @@ public class aaa extends Frame{
         add(b1);add(b2);//add(p1,new BorderLayout().CENTER);
 
         addWindowListener(new WindowDestroyer());
-        setSize(500,500);
+        setSize(500,400);
         setVisible(true);
     }
 
